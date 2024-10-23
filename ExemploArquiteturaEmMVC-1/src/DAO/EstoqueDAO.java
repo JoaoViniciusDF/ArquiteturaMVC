@@ -22,7 +22,7 @@ public class EstoqueDAO {
 			this.conn = null;
 			String url = "jdbc:mysql://localhost/acaiteria";//Caminho do banco de dados local na máquina
 			String user = "root";//Usuário do banco de dados local
-			String password = "@Secreto2003";//Senha do banco de dados local
+			String password = "root";//Senha do banco de dados local
 			
 			try {
 	
